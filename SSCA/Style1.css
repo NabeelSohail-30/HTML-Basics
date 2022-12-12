@@ -1,0 +1,57 @@
+
+body
+{
+	color:slateblue;	
+}
+
+
+p 
+{
+	color:red;
+}
+
+
+div
+{
+	color:darkgreen;
+}
+
+span
+{
+	color:orange;
+}
+
+a
+{
+	color:brown;
+}
+
+td
+{
+	color:gold;
+}
+
+tr
+{
+	color:firebrick;
+}
+
+table
+{
+	color:darkmagenta;
+}
+
+#info
+{
+	color:indigo;
+}
+
+#heading
+{
+	color:maroon;
+}
+
+#p2
+{
+	color:mediumblue;
+}
